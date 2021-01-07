@@ -1,0 +1,2 @@
+[ 21JAN07 ]
+  - download remaining deps ( ref Thrive & X-Tracker )
