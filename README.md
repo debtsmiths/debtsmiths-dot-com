@@ -16,6 +16,9 @@
   - clear out default CRA files / folders
   - create initial files / folders
   - import image assets / branding
+  - download initial dependencies
+    - sass
+    - ( refernce Traversy Expense Tracker & Thrive )
 
 ### _DB Research_
   - SQL vs. MongoDB
