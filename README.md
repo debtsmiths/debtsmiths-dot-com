@@ -1,8 +1,8 @@
 # **DEBTSMITHS, LLC.** ( _Website / Blog_ )
 ### **INDEX**
 
-  [Sprint 1](#sprint-1) <br>
-  [Sprint 1](#sprint-2) <br>
+  [Sprint 2](#sprint-2) | Base Components, DB Connection<br>
+  [Sprint 1](#sprint-1) | Project Setup<br>
 
 <hr>
 
