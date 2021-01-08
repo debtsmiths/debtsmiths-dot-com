@@ -1,0 +1,14 @@
+.LandingPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background: linear-gradient(45deg, $debtsmiths-grey, $debtsmiths-orange);
+
+  img {
+    width: 50%;
+    margin: auto;
+    height: auto;
+    display: block;
+  }
+}
