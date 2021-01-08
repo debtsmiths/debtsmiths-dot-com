@@ -1,2 +1,6 @@
+[ 21JAN08 ]
+  - Fix Work Item issue in Boards ( something to do with favicon bug Work Item )
+    - Team settings | 
+
 [ 21JAN07 ]
   - download remaining deps ( ref Thrive & X-Tracker )
