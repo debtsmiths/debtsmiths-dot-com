@@ -1,5 +1,5 @@
 [ 21JAN12 ]
-  - 
+  - merge setup & backend branches into new local 'dev' branch and push
 
 [ 21JAN08 ]
   - Fix Work Item issue in Boards ( something to do with favicon bug Work Item )
