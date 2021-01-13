@@ -1,9 +1,11 @@
 [ 21JAN12 ]
-  - merge setup & backend branches into new local 'dev' branch and push
+  [ ] 
+
+[ 21JAN12 ]
+  [x] merge setup & backend branches into new local 'dev' branch and push
 
 [ 21JAN08 ]
-  - Fix Work Item issue in Boards ( something to do with favicon bug Work Item )
-    - Team settings | 
+  [x] Fix Work Item issue in Boards ( something to do with favicon bug Work Item )
 
 [ 21JAN07 ]
-  - download remaining deps ( ref Thrive & X-Tracker )
+  [x] download remaining deps ( ref Thrive & X-Tracker )
