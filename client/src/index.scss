@@ -1,10 +1,15 @@
+// reset
+@import './styles/shared/reset.scss';
+
+// fonts
+
 // shared
-@import './styles/shared/configs.scss';
 @import './styles/shared/layout.scss';
+@import './styles/shared/configs.scss';
 @import './styles/shared/responsive.scss';
-@import './styles/shared/utilities.scss';
 
 // components
 
+@import './styles/Header';
 @import './styles/App.scss';
 @import './styles/LandingPage.scss';
